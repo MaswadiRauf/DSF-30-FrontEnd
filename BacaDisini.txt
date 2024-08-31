@@ -1,0 +1,15 @@
+Hallo Kakak, Senang bersapa dengan kakak
+
+Diprogram VILLAGE BALI saya hanya FrontEnd saja dan itupun hanya tampilan belum ada Databasenya
+disini saya hanya mengerjakan yg ada dibawah ini
+
+================================================================================================
+
+1. Resources(yang didalamnya ada css, js, dan view)
+2. View (yg didalamnya ada home.blade.php dan file components)
+3. Untuk navigasi berada di (Components)
+4. Untuk gambar berada di public/img
+
+===============================================================================================
+
+Terimakasih kak sudah membaca :)
